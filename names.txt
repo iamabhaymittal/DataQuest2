@@ -1,0 +1,102 @@
+
+
+Nationality:
+United-States - 1
+Canada - 2
+Mexico - 3
+Dominican-Republic - 4
+Laos - 5
+Japan - 6
+Columbia - 7
+
+
+Sex:
+Male - 2
+Female - 1
+
+
+Relationship:
+1.Husband
+2.Own-child
+3.Not-in-family	
+4.Wife
+5.Unmarried
+6.Other-relative
+
+
+
+1 Tech-support
+2 Machine-op-inspct
+3 Prof-specialty
+4 Sales
+5 Exec-managerial
+6 Other-service
+7 Craft-repair
+8 Adm-clerical
+9 Handlers-cleaners
+10 Farming-fishing
+11 Transport-moving
+12 Protective-serv
+13 Priv-house-serv
+14 Armed-Forces
+15
+
+
+Education:
+1 HS-grad
+2 Some-college
+
+3 Bachelors
+4 Masters
+5 Assoc-voc
+
+6 11th
+
+7 Preschool
+
+8 10th
+
+9 5th-6th
+
+10 7th-8th
+
+11 Assoc-acdm
+
+12 9th
+
+13 Prof-school
+
+14 12th
+
+15 Doctorate
+
+16 1st-4th
+
+
+
+workclass
+
+
+1 Private
+2 State-gov
+3 Local-gov
+4 Self-emp-not-inc
+5 Federal-gov
+6 Self-emp-inc
+7 Without-pay
+8 Never-worked
+
+
+
+
+
+
+
+marital-status
+1 Married-civ-spouse
+2 Divorced
+3 Married-spouse-absent
+4 Widowed
+5 Never-married
+6 Separated
+7 Married-AF-spouse
